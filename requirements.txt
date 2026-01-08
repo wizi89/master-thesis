@@ -1,0 +1,9 @@
+six==1.10.0
+h5py==2.6.0
+matplotlib==2.0.0
+Keras.egg==info
+numpy==1.12.1
+Pillow==4.1.1
+PyQt5==5.8.2
+keras==2.0.4
+scikit_learn==0.18.1
